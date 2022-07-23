@@ -6,7 +6,7 @@ b_wins = False
 # Set up the screen
 turtle.Screen()
 t1 = turtle.Screen()
-t1.title("Ping Pong game by Timothy")
+t1.title("Ping Pong game")
 t1.bgcolor("black")
 t1.setup(width=800, height=600)
 t1.tracer(0)
